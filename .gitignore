@@ -1,0 +1,8 @@
+# Claude context files — local only, never commit
+CLAUDE.md
+
+# Profile README lives in its own separate repo
+profile-readme/
+
+# OS files
+.DS_Store
